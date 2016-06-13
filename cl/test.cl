@@ -1,0 +1,3 @@
+kernel void my_kernel( int N, global float *one, global float *two, local float *one_local, global float *result ) {
+    // kernel code here...
+}
